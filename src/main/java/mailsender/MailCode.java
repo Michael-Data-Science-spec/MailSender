@@ -1,3 +1,5 @@
+package mailsender;
+
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
@@ -15,5 +17,9 @@ public enum MailCode {
         // Inject client data
         // Return text
         return "";
+    }
+
+    public String getFilename() {
+        return this.filename;
     }
 }

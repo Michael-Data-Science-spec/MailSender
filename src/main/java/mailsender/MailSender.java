@@ -1,3 +1,7 @@
+package mailsender;
+
+import mailsender.MailInfo;
+
 public class MailSender {
 
     public void sendMail(MailInfo mailInfo) {

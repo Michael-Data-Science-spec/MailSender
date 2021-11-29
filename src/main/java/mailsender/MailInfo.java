@@ -1,4 +1,8 @@
+package mailsender;
+
 import lombok.Getter;
+import mailsender.Client;
+import mailsender.MailCode;
 
 @Getter
 public class MailInfo {

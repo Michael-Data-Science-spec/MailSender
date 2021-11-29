@@ -1,3 +1,5 @@
+package mailsender;
+
 import lombok.Getter;
 
 @Getter

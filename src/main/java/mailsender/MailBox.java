@@ -1,3 +1,5 @@
+package mailsender;
+
 import java.util.ArrayList;
 
 public class MailBox {
